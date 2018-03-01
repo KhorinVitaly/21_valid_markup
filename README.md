@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+To teach detection and correction of markup errors. A valid website site is published here - [khorinvitaly.github.io/21_valid_markup/](https://khorinvitaly.github.io/21_valid_markup/)
 
 # Project Goals
 
