@@ -13,8 +13,7 @@
  */
 
 (function( global, factory ) {
-
-	if ( typeof module === "object" && typeof module.exports === "object" ) {
+  if ( typeof module === "object" && typeof module.exports === "object" ) {
 		// For CommonJS and CommonJS-like environments where a proper window is present,
 		// execute the factory and get jQuery
 		// For environments that do not inherently posses a window with a document
@@ -63,10 +62,8 @@ var support = {};
 
 
 
-var
-	version = "1.11.1",
-
-	// Define a local copy of jQuery
+var version = "1.11.1",
+  // Define a local copy of jQuery
 	jQuery = function( selector, context ) {
 		// The jQuery object is actually just the init constructor 'enhanced'
 		// Need init if jQuery is called (just allow error to be thrown if not included)
