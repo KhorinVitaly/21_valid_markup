@@ -83,6 +83,12 @@ hr.small {
   list-style: none;
 }
 
+#menu-close{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .sidebar-nav li {
   text-indent: 20px;
   line-height: 40px;
